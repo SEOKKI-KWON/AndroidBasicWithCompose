@@ -4,13 +4,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.greetingcard"
+    namespace = "com.example.learntogether"
     compileSdk {
         version = release(37)
     }
 
     defaultConfig {
-        applicationId = "com.example.greetingcard"
+        applicationId = "com.example.learntogether"
         minSdk = 24
         targetSdk = 37
         versionCode = 1

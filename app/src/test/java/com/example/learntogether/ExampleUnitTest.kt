@@ -1,4 +1,4 @@
-package com.example.greetingcard
+package com.example.learntogether
 
 import org.junit.Test
 
